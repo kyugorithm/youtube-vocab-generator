@@ -190,5 +190,4 @@ If your key is exposed, revoke it immediately and generate a new one from your [
 This project is licensed under the **[MIT License](LICENSE)**.
 
 
-
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/30b1ec06-69c9-4c05-a199-6fb9dea0b6b5" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/9b35f473-444b-419e-a209-30af0cd4a9c6" />
