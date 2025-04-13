@@ -1,4 +1,4 @@
-# VSCode or PyCharm project files
+# IDEs
 .vscode/
 .idea/
 
@@ -10,12 +10,11 @@ __pycache__/
 # OS
 .DS_Store
 
+# Output files (keep folder)
+output/*
+!output/.gitkeep
 
 # Secrets
 resources/claude_api_key.txt
-
-# Ignore everything under output/
-output/*
-
-# But keep the output/ folder itself
-!output/.gitkeep
+.env
+*.log
