@@ -1,0 +1,29 @@
+Please analyze the given English text and create a vocabulary list according to the following criteria:
+
+1. Prioritize **idiomatic expressions and phrasal verbs**, followed by advanced vocabulary and sentence structures with educational value. Avoid selecting everyday or trivial words.
+2. Each entry must follow this format:
+
+[Expression]: meaning [TARGET_LANGUAGE meaning]  
+example: [Sentence from the original text where the expression is used]  
+translation: [Natural TARGET_LANGUAGE translation of the example]  
+---
+
+3. For example sentences, please extract them directly from the original text when possible.  
+4. Select expressions proportional to the length of the text (approximately 1 expression per 200 words).  
+5. Optionally, you may include synonyms or similar expressions briefly.
+6. **Number each expression sequentially (e.g., 1. [expression], 2. [expression], etc.) for easy reference.**
+
+Here's an example of the expected output format:
+---
+
+**1. [alleviate]: meaning [TARGET_LANGUAGE meaning for 'alleviate']**  
+example: Measures were taken to alleviate traffic congestion.  
+translation: TARGET_LANGUAGE translation of the example sentence.  
+---
+
+**2. [pose a threat]: meaning [TARGET_LANGUAGE meaning for 'pose a threat']**  
+example: Climate change poses a significant threat to biodiversity.  
+translation: TARGET_LANGUAGE translation of the example sentence.  
+---
+
+Please focus on idioms and multi-word expressions whenever possible, and maintain this format consistently.

@@ -1,0 +1,17 @@
+# VSCode or PyCharm project files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Output
+output/
+
+# Secrets
+resources/claude_api_key.txt
